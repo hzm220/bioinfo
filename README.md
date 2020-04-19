@@ -1,2 +1,2 @@
 # bioinfo
-learning note
+learning note for biostar handbook
