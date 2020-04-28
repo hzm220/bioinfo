@@ -1,4 +1,4 @@
-#Awk
+# Awk
 Awk operates on one line at a time, and the typical awk program is so short that it can be listed at the command line. 
 cat SGD_features.tab | cut -f 2,4,10,11 | grep ORF | head
 awk we can rearrange columns and compute even compute new ones (start-end coordinate) 
